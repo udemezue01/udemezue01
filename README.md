@@ -9,7 +9,7 @@ I'm passionate about building web applications and crafting digital marketing st
 ### 🌟 **Skills & Expertise**
 
 - **Web Development:**
-  - Frontend: HTML, CSS, JavaScript, React, Vue Tailwinds CSS
+  - Frontend: HTML, CSS, JavaScript, React, Vue, Tailwinds CSS
   - Backend: Node.js, Python, 
   - Databases:  PostgreSQL
   - Frameworks: Django, Nuxt JS, Next.js
