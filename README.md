@@ -28,13 +28,13 @@ I'm passionate about building web applications and crafting digital marketing st
 
 ### 💻 **My Projects**
 
-#### [Project 1: Personal Portfolio](https://github.com/udemezue01/Udemezue-nuxt)
+#### [Project 1: Personal Portfolio](https://udemezue.pages.dev/)
 A sleek and responsive portfolio website showcasing my work and skills. Built with HTML, CSS, and JavaScript.
 
-#### [Project 2: SEO Optimized Blog](https://github.com/udemezue01/Newsly-Nuxt)
+#### [Project 2: SEO Optimized Blog](https://newsly.pages.dev/)
 A blog platform optimized for search engines using best SEO practices. Developed with Django and integrated with Google Analytics for traffic insights.
 
-#### [Project 3: E-commerce Website](https://github.com/udemezue01/Shopsy-miva)
+#### [Project 3: E-commerce Website](https://shopsymiva.pages.dev/)
 An e-commerce platform with integrated payment gateways. Built with React, Node.js, and MongoDB, featuring an intuitive UI and secure checkout process.
 
 ---
